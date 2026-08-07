@@ -8,6 +8,16 @@
   </a>
 </p>
 
+## Software Engineering Playbook
+
+This repository also hosts the **Software Engineering Playbook** — Salviano's personal reference standard for architecture, process, stack, and quality across all projects. It lives in the numbered `00-MISSAO.md` through `24-PLAYBOOK-GOVERNANCE.md` files at the repo root, plus `templates/` (per-project-type architecture templates: API-REST, CRM, Dashboard, ERP, IA-Generativa, Landing-Page, Mobile, SaaS, TMS, WMS).
+
+**Start here:** [`PLAYBOOK-GOVERNANCE.md`](./PLAYBOOK-GOVERNANCE.md) defines how to use it — load only the documents relevant to the task's domain, not the whole playbook. See [`CLAUDE.md`](./CLAUDE.md) for the full index and precedence rules.
+
+This is a separate system from the skills library below (which remains Matt Pocock's, unmodified) — both coexist in this repo.
+
+---
+
 # Skills For Real Engineers
 
 [![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)
